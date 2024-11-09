@@ -15,7 +15,7 @@ export default function Home() {
       >
         <div className="absolute inset-0 bg-gradient-to-r from-amber-700/30 to-red-800/30 rounded-2xl blur-xl" />
         <div className="relative bg-stone-900/90 rounded-2xl p-8 shadow-2xl overflow-hidden border border-amber-700/20">
-          <div className="absolute inset-0 bg-[url('/placeholder.svg?height=200&width=200')] opacity-5" />
+          <div className="absolute inset-0 )] opacity-5" />
 
           <motion.div
             initial={{ opacity: 0, y: 20 }}
